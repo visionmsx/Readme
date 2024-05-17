@@ -1,63 +1,21 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+<h1 align="center">Merhaba 👋, ben Vision</h1>
+<h3 align="center">Türkiye'den tutkulu bir geliştirici Siber Güvenlik mühendisi</h3>
 
-###
+<p align="left"> <img src ="https://komarev.com/ghpvc/?username=visionmsx&label=Profile%20views&color=0e75b6&style=flat" alt="visionmsx" /> </p>
 
-<div align="center">
+<p align="left"> <a href="https ://github.com/ryo-ma/github-profile-trophy"><img src = "https://github-profile-trophy.vercel.app/?username=visionmsx" alt = "visionmsx" />< /a> </p>
 
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+<h3 align = "left">Benimle bağlantı kurun:</h3>
+<p align = "left">
+<a href = "https://twitter.com/visionmsx" target = "blank" "><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt = "visionmsx " height = "30" genişlik = "40" /></a>
+<a href = "https://www.youtube.com/c/visionmsx" target = "blank"><img align = "center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt = "visionmsx" height = "30" genişlik = "40 " /></a>
+</p>
 
-  
-</div>
+<h3 align="left">Diller ve Araçlar:</h3>
+<p align = "left"> <a href = "https://www.arduino.cc/" target = "_blank" rel = "noreferrer"> <img src = "https://cdn.worldvectorlogo.com/ logos/arduino-1.svg" alt = "arduino" width = "40" height = "40"/> </a> <a href = "https://www.w3schools.com/cs/" target = " _blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt = "csharp" width = "40" yükseklik ="40"/> </a> <a href = "https://www.w3schools.com/css/" target = "_blank" rel = "noreferrer"> <img src = "https://raw. githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt = "css3" width = "40" height = "40"/> </a> <a href = "https: //dotnet.microsoft.com/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net -original-wordmark.svg" alt = "dotnet" width = "40" height = "40"/> </a> <a href = "https://www.w3.org/html/" target = "_blank " rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt = "html5" width = "40" height = "40"/> </a> <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" target = "_blank" rel = "noreferrer"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt = "javascript" width = "40" height = "40"/> </a> < a href = "https://www.linux.org/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux /linux-original.svg" alt = "linux" width = "40" height = "40"/> </a> <a href = "https://www.mysql.com/" target = "_blank" rel ="noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt = "mysql" width = "40" yükseklik = "40"/> </a> <a href = "https://nodejs.org" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt = "nodejs" width = "40" height = "40"/> </a> <a href = "https:// www.python.org" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt= "python" width = "40" height = "40"/> </a> </p>
 
-###
+<p><img align = "left" src = "https://github-readme-stats.vercel.app/ api/top-langs?username=visionmsx&show_icons=true&locale=en&layout=compact" alt = "visionmsx" /></p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+<p> <img align = "center" src = "https://github-readme- stats.vercel.app/api?username=visionmsx&show_icons=true&locale=en" alt="visionmsx" /></p>
 
-###
-
-<h1 align="center">Hi , I am Vision 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-
-
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<p><img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=visionmsx&" alt = "visionmsx" /></p>
